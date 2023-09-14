@@ -1,0 +1,38 @@
+{
+	"ext_name": {
+		"message": "Einstellung \"Übersetzen\"",
+		"description": ""
+	},
+	"ext_description": {
+		"message": "Festlegen Übersetzung überspringen",
+		"description": ""
+	},
+	"ext_title": {
+		"message": "Einstellung \"Übersetzen\"",
+		"description": ""
+	},
+	"pop_head": {
+		"message": "notranslate-Element festlegen",
+		"description": ""
+	},
+	"pop_desc": {
+		"message": "Folgendes Element ignorieren",
+		"description": ""
+	},
+	"pop_tip": {
+		"message": "geteilt durch (Leerzeichen, Komma, Zeilenumbruch)",
+		"description": ""
+	},
+	"pop_example": {
+		"message": "Zum Beispiel",
+		"description": ""
+	},
+	"pop_switch": {
+		"message": "Automatische Ausführung beim Laden der Seite",
+		"description": ""
+	},
+	"pop_comfire": {
+		"message": "Anwenden&Setzen",
+		"description": ""
+	}
+}

@@ -1,0 +1,9 @@
+{"ext_name":{"message":"翻訳設定","description":""},
+"ext_description":{"message":"翻訳スキップの設定","description":""},
+"ext_title":{"message":"翻訳設定","description":""},
+"pop_head":{"message":"翻訳要素を設定する","description":""},
+"pop_desc":{"message":"次の項目を無視する","description":""},
+"pop_tip":{"message":"分割 (スペース、コンマ、改行)","description":""},
+"pop_example":{"message":"例えば","description":""},
+"pop_switch":{"message":"ページの読み込み時に自動実行","description":""},
+"pop_comfire":{"message":"適用&設定","description":""}}

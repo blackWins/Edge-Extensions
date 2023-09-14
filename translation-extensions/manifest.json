@@ -1,0 +1,37 @@
+{
+	"default_locale": "en",
+	"author": "blackWinds",
+	"name": "__MSG_ext_name__",
+	"version": "1.0.0.0",
+	"manifest_version": 3,
+	"offline_enabled": true,
+	"description": "__MSG_ext_description__",
+	"permissions": ["contextMenus", "storage", "activeTab", "scripting", "pageCapture"],
+	"action": {
+		"default_title": "__MSG_ext_title__",
+		"default_popup": "popup.html",
+		"default_icon": {
+			"32": "icons/star.png",
+			"72": "icons/star.png",
+			"128": "icons/star.png",
+			"512": "icons/star.png"
+		}
+	},
+	"icons": {
+		"32": "icons/star.png",
+		"72": "icons/star.png",
+		"128": "icons/star.png",
+		"512": "icons/star.png"
+	},
+	"background": {
+		"service_worker": "js/background.js"
+	},
+	"web_accessible_resources": [{
+		"resources": ["images/*.jpeg", "images/*.png","_locales/*"],
+		"matches": ["<all_urls>"]
+	}],
+	"content_scripts": [{
+		"matches": ["http://*/*", "https://*/*"],
+		"js": ["js/initial.js"]
+	}]
+}

@@ -1,0 +1,9 @@
+{"ext_name":{"message":"Traduzir definição","description":""},
+"ext_description":{"message":"definição de tradução de salto","description":""},
+"ext_title":{"message":"traduzir definição","description":""},
+"pop_head":{"message":"Definir elemento de não tradução","description":""},
+"pop_desc":{"message":"ignorar o seguinte item","description":""},
+"pop_tip":{"message":"dividido por (espaço, vírgula, newline)","description":""},
+"pop_example":{"message":"Por exemplo","description":""},
+"pop_switch":{"message":"correr automaticamente quando a página é carregada","description":""},
+"pop_comfire":{"message":"Aplicar&set","description":""}}

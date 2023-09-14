@@ -1,0 +1,38 @@
+{
+	"ext_name": {
+		"message": "翻译设置",
+		"description": ""
+	},
+	"ext_description": {
+		"message": "设置跳过翻译",
+		"description": ""
+	},
+	"ext_title": {
+		"message": "翻译设置",
+		"description": ""
+	},
+	"pop_head": {
+		"message": "设置notranslate元素",
+		"description": ""
+	},
+	"pop_desc": {
+		"message": "忽略以下",
+		"description": ""
+	},
+	"pop_tip": {
+		"message": "拆分依据（空格、逗号、换行符）",
+		"description": ""
+	},
+	"pop_example": {
+		"message": "例如",
+		"description": ""
+	},
+	"pop_switch": {
+		"message": "加载页面时自动运行",
+		"description": ""
+	},
+	"pop_comfire": {
+		"message": "应用并设置",
+		"description": ""
+	}
+}

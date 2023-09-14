@@ -1,0 +1,8 @@
+.code {
+	background-color: var(--theme-inline-code);
+	font-smooth: auto;
+	word-wrap: break-word;
+	border-radius: 3px;
+	padding: .1em .2em;
+	font-size: 85%;
+}

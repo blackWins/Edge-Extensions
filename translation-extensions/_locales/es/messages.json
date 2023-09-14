@@ -1,0 +1,9 @@
+{"ext_name":{"message":"Configuración de traducción","description":""},
+"ext_description":{"message":"Configuración Omitir traducción","description":""},
+"ext_title":{"message":"Configuración de traducción","description":""},
+"pop_head":{"message":"Set notranslate element","description":""},
+"pop_desc":{"message":"Omitir el siguiente elemento","description":""},
+"pop_tip":{"message":"Dividido por (espacio, coma, nueva línea)","description":""},
+"pop_example":{"message":"Por ejemplo","description":""},
+"pop_switch":{"message":"Ejecución automática cuando se carga la página","description":""},
+"pop_comfire":{"message":"Aplicar&Establecer","description":""}}

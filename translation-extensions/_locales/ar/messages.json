@@ -1,0 +1,9 @@
+{"ext_name":{"message":"إعداد الترجمة","description":""},
+"ext_description":{"message":"إعداد تخطي الترجمة","description":""},
+"ext_title":{"message":"إعداد الترجمة","description":""},
+"pop_head":{"message":"تعيين عنصر notranslate","description":""},
+"pop_desc":{"message":"تجاهل العنصر التالي","description":""},
+"pop_tip":{"message":"تقسيم حسب (مسافة ، فاصلة ، سطر جديد)","description":""},
+"pop_example":{"message":"على سبيل المثال","description":""},
+"pop_switch":{"message":"تشغيل تلقائي عند تحميل الصفحة","description":""},
+"pop_comfire":{"message":"تطبيق&تعيين","description":""}}

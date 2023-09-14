@@ -1,0 +1,9 @@
+{"ext_name":{"message":"Definição da palavra Setting","description":""},
+"ext_description":{"message":"configuração pular tradução","description":""},
+"ext_title":{"message":"definição da tradução","description":""},
+"pop_head":{"message":"Definir elemento notranslate","description":""},
+"pop_desc":{"message":"ignorar o seguinte item","description":""},
+"pop_tip":{"message":"dividir por (espaço, vírgula, nova linha)","description":""},
+"pop_example":{"message":"Por exemplo","description":""},
+"pop_switch":{"message":"execução automática quando a página é carregada","description":""},
+"pop_comfire":{"message":"Aplicar&Definir","description":""}}

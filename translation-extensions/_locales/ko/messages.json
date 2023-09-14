@@ -1,0 +1,9 @@
+{"ext_name":{"message":"번역 설정","description":""},
+"ext_description":{"message":"번역 건너뛰기 설정","description":""},
+"ext_title":{"message":"번역 설정","description":""},
+"pop_head":{"message":"notranslate 요소 설정","description":""},
+"pop_desc":{"message":"다음 항목 무시","description":""},
+"pop_tip":{"message":"분할 기준(공백, 쉼표, 줄 바꿈)","description":""},
+"pop_example":{"message":"예를 들어","description":""},
+"pop_switch":{"message":"페이지가로드 될 때 자동 실행","description":""},
+"pop_comfire":{"message":"Apply&Set","description":""}}

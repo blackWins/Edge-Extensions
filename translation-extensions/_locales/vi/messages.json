@@ -1,0 +1,9 @@
+{"ext_name":{"message":"Cài đặt dịch","description":""},
+"ext_description":{"message":"Cài đặt Bỏ qua bản dịch","description":""},
+"ext_title":{"message":"cài đặt dịch","description":""},
+"pop_head":{"message":"Đặt phần tử notranslate","description":""},
+"pop_desc":{"message":"bỏ qua mục sau","description":""},
+"pop_tip":{"message":"Chia theo (dấu cách, dấu phẩy, dòng mới)","description":""},
+"pop_example":{"message":"Chẳng hạn","description":""},
+"pop_switch":{"message":"Tự động chạy khi trang được tải","description":""},
+"pop_comfire":{"message":"Áp dụng &Đặt","description":""}}

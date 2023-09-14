@@ -1,0 +1,38 @@
+{
+	"ext_name": {
+		"message": "Nastavení překladu",
+		"description": ""
+	},
+	"ext_description": {
+		"message": "Nastavení přeskočit překlad",
+		"description": ""
+	},
+	"ext_title": {
+		"message": "Nastavení překladu",
+		"description": ""
+	},
+	"pop_head": {
+		"message": "Nastavit element notranslate",
+		"description": ""
+	},
+	"pop_desc": {
+		"message": "Ignorovat následující položku",
+		"description": ""
+	},
+	"pop_tip": {
+		"message": "rozdělit (mezera, čárka, nový řádek)",
+		"description": ""
+	},
+	"pop_example": {
+		"message": "Například",
+		"description": ""
+	},
+	"pop_switch": {
+		"message": "Automatické spuštění při načtení stránky",
+		"description": ""
+	},
+	"pop_comfire": {
+		"message": "Použít a nastavit",
+		"description": ""
+	}
+}

@@ -1,0 +1,9 @@
+{"ext_name":{"message":"Поставка превођења","description":""},
+"ext_description":{"message":"подешавање прескочи превод","description":""},
+"ext_title":{"message":"поставка превођења","description":""},
+"pop_head":{"message":"Постављање елемента нотранслате","description":""},
+"pop_desc":{"message":"занемари следећу ставку","description":""},
+"pop_tip":{"message":"раздељено (размак, зарез, нова линија)","description":""},
+"pop_example":{"message":"На пример","description":""},
+"pop_switch":{"message":"аутоматско покретање приликом учитавања странице","description":""},
+"pop_comfire":{"message":"Примени&Сет","description":""}}

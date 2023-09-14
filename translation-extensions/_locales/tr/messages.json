@@ -1,0 +1,9 @@
+{"ext_name":{"message":"Ayarı çevir","description":""},
+"ext_description":{"message":"ayar atlama çevirisi","description":""},
+"ext_title":{"message":"çeviri ayarı","description":""},
+"pop_head":{"message":"Notranslate öğesini ayarlama","description":""},
+"pop_desc":{"message":"aşağıdaki öğeyi yoksayma","description":""},
+"pop_tip":{"message":"bölme ölçütü (boşluk, virgül, yeni satır)","description":""},
+"pop_example":{"message":"Mesela","description":""},
+"pop_switch":{"message":"sayfa yüklendiğinde otomatik çalıştırma","description":""},
+"pop_comfire":{"message":"Uygula & Ayarla","description":""}}

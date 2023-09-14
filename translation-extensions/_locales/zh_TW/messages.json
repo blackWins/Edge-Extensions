@@ -1,0 +1,38 @@
+{
+	"ext_name": {
+		"message": "翻譯設置",
+		"description": ""
+	},
+	"ext_description": {
+		"message": "設置跳過翻譯",
+		"description": ""
+	},
+	"ext_title": {
+		"message": "翻譯設置",
+		"description": ""
+	},
+	"pop_head": {
+		"message": "設置notranslate元素",
+		"description": ""
+	},
+	"pop_desc": {
+		"message": "忽略以下",
+		"description": ""
+	},
+	"pop_tip": {
+		"message": "分割依據（空格、逗號、換行符）",
+		"description": ""
+	},
+	"pop_example": {
+		"message": "例如",
+		"description": ""
+	},
+	"pop_switch": {
+		"message": "載入頁面時自動運行",
+		"description": ""
+	},
+	"pop_comfire": {
+		"message": "應用和設置",
+		"description": ""
+	}
+}

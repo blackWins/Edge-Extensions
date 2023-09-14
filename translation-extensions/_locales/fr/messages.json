@@ -1,0 +1,9 @@
+{"ext_name":{"message":"Paramètre de traduction","description":""},
+"ext_description":{"message":"définition de l’option Ignorer la traduction","description":""},
+"ext_title":{"message":"Paramètre de traduction","description":""},
+"pop_head":{"message":"Définir l’élément notranslate","description":""},
+"pop_desc":{"message":"Ignorer l’élément suivant","description":""},
+"pop_tip":{"message":"Diviser par (espace, virgule, nouvelle ligne)","description":""},
+"pop_example":{"message":"Par exemple","description":""},
+"pop_switch":{"message":"Exécution automatique lors du chargement de la page","description":""},
+"pop_comfire":{"message":"Apply&Set","description":""}}

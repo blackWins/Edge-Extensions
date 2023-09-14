@@ -1,0 +1,9 @@
+{"ext_name":{"message":"Instelling Vertalen","description":""},
+"ext_description":{"message":"vertaling overslaan instellen","description":""},
+"ext_title":{"message":"vertaalinstelling","description":""},
+"pop_head":{"message":"Notranslate-element instellen","description":""},
+"pop_desc":{"message":"het volgende item negeren","description":""},
+"pop_tip":{"message":"gedeeld door (spatie, komma, nieuwe regel)","description":""},
+"pop_example":{"message":"Bijvoorbeeld","description":""},
+"pop_switch":{"message":"automatisch uitvoeren wanneer de pagina wordt geladen","description":""},
+"pop_comfire":{"message":"Toepassen&Instellen","description":""}}

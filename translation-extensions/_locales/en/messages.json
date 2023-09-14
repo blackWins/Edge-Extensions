@@ -1,0 +1,38 @@
+{
+	"ext_name": {
+		"message": "TranslateSetting",
+		"description": ""
+	},
+	"ext_description": {
+		"message": "setting skip translation",
+		"description": ""
+	},
+	"ext_title": {
+		"message": "translate setting",
+		"description": ""
+	},
+	"pop_head": {
+		"message": "Set notranslate element",
+		"description": ""
+	},
+	"pop_desc": {
+		"message": "ignore following item",
+		"description": ""
+	},
+	"pop_tip": {
+		"message": "split by (space, comma, newline)",
+		"description": ""
+	},
+	"pop_example": {
+		"message": "For example",
+		"description": ""
+	},
+	"pop_switch": {
+		"message": "auto run when the page is loaded",
+		"description": ""
+	},
+	"pop_comfire": {
+		"message": "Apply&Set",
+		"description": ""
+	}
+}

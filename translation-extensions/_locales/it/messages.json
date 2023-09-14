@@ -1,0 +1,9 @@
+{"ext_name":{"message":"Impostazione di traduzione","description":""},
+"ext_description":{"message":"Impostazione Ignora traduzione","description":""},
+"ext_title":{"message":"Impostazione di traduzione","description":""},
+"pop_head":{"message":"Imposta elemento notranslate","description":""},
+"pop_desc":{"message":"ignora elemento seguente","description":""},
+"pop_tip":{"message":"diviso per (spazio, virgola, nuova riga)","description":""},
+"pop_example":{"message":"Per esempio","description":""},
+"pop_switch":{"message":"Esecuzione automatica quando la pagina viene caricata","description":""},
+"pop_comfire":{"message":"Applica&Imposta","description":""}}

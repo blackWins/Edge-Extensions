@@ -1,0 +1,38 @@
+{
+	"ext_name": {
+		"message": "Настройка перевода",
+		"description": ""
+	},
+	"ext_description": {
+		"message": "настройка пропустить перевод",
+		"description": ""
+	},
+	"ext_title": {
+		"message": "перевод настроек",
+		"description": ""
+	},
+	"pop_head": {
+		"message": "Задать элемент notranslate",
+		"description": ""
+	},
+	"pop_desc": {
+		"message": "Игнорировать следующий элемент",
+		"description": ""
+	},
+	"pop_tip": {
+		"message": "разделить на (пробел, запятая, новая строка)",
+		"description": ""
+	},
+	"pop_example": {
+		"message": "Например",
+		"description": ""
+	},
+	"pop_switch": {
+		"message": "автоматический запуск при загрузке страницы",
+		"description": ""
+	},
+	"pop_comfire": {
+		"message": "Применить&Установить",
+		"description": ""
+	}
+}

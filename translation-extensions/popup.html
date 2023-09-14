@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title class="tolocal">__MSG_extTitle__</title>
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" href="css/popup.css" />
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="row clearfix">
+				<div class="col-md-12 column">
+					<form role="form">
+						<h3 class="tolocal">__MSG_pop_head__</h3>
+						<div class="form-group">
+							<label for="skip-type" class="mb-2"><span class="tolocal">__MSG_pop_desc__</span> id、class、tagName、xpath</label>
+							<textarea rows="10" class="form-control mb-2" id="skip-type"
+								placeholder="id class tagName xpath"></textarea>
+							<p class="help-block">
+								<span class="text-primary tolocal">__MSG_pop_tip__</span>
+								<br>
+								<span class="tolocal">__MSG_pop_example__</span>: #nav .title a
+							</p>
+						</div>
+						<div class="form-check form-switch">
+						  <input title="" class="form-check-input" type="checkbox" role="switch" id="auto_scan" style="height: 1.8em; width: 3.3em;">
+						    <label class="form-check-label p-1 ps-2 tolocal" for="auto_scan">__MSG_pop_switch__</label>
+						</div>
+						<div class="text-end">
+							<button id="save_btn" type="button" class="btn btn-primary tolocal">__MSG_pop_comfire__</button>
+						</div>
+						<br>
+					</form>
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript" src="js/popup.js"></script>
+	</body>
+
+</html>
